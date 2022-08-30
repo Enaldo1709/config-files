@@ -1,0 +1,10 @@
+{
+	"diagnostic.refreshOnInsertMode": true,
+	"diagnostic.checkCurrentLine": true,
+	"diagnostic.virtualText": true,
+	"diagnostic.virtualTextPrefix": " <- ",
+	"coc.preferences.formatOnSaveFiletypes": [
+		"go",
+		"json"
+	]
+}
